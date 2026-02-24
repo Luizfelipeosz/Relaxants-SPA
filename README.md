@@ -7,7 +7,7 @@ O projeto simula um site real de apresentação de serviços, agendamento, e ace
 
 ## ✨ Visão Geral
 
-O **Relaxant’s Spa** foi criado para transmitir sensações de calma, bem-estar e conforto, utilizando uma interface limpa, tipografia suave e cores harmoniosas.
+O **Relaxant’s Spa** foi criado para transmitir aos clientes sensações de calma, bem-estar e conforto, utilizando uma interface limpa, tipografia suave e cores harmoniosas.
 
 O objetivo do projeto é apresentar serviços de um spa de forma clara e intuitiva, garantindo uma navegação agradável em qualquer dispositivo.
 
