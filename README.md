@@ -30,7 +30,6 @@ O objetivo do projeto é apresentar serviços de um spa de forma clara e intuiti
 - Design moderno e focado em UX  
 - Componentes reutilizáveis  
 - Estrutura semântica e boas práticas de acessibilidade (WCAG)
--   
 
 ---
 ## Atualizações 
