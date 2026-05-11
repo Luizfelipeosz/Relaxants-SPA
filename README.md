@@ -1,52 +1,93 @@
 # 🌿 Relaxant’s Spa
 
-Landing page institucional de um spa fictício, desenvolvida com foco em **experiência do usuário**, **design moderno**, **responsividade** e **acessibilidade**.  
-O projeto simula um site real de apresentação de serviços, agendamento, e acessibilidade ideal para demonstrar habilidades em Front-End e UI/UX.
+Aplicação institucional desenvolvida para simular a presença digital de um spa moderno, com foco em **experiência do usuário**, **responsividade**, **acessibilidade** e **organização de interface**.
+
+O projeto foi construído pensando em cenários reais de desenvolvimento Front-End, priorizando clareza visual, componentização e navegação intuitiva em diferentes dispositivos.
 
 ---
 
-## ✨ Visão Geral
+## ✨ Sobre o Projeto
 
-O **Relaxant’s Spa** foi criado para transmitir aos clientes sensações de calma, bem-estar e conforto, utilizando uma interface limpa, tipografia suave e cores harmoniosas.
+O **Relaxant’s Spa** foi desenvolvido com o objetivo de transmitir sensação de conforto e bem-estar através de uma interface limpa, moderna e acessível.
 
-O objetivo do projeto é apresentar serviços de um spa de forma clara e intuitiva, garantindo uma navegação agradável em qualquer dispositivo.
+Além do aspecto visual, o projeto também busca demonstrar boas práticas de desenvolvimento Front-End, incluindo:
+
+* Estruturação semântica
+* Componentização
+* Responsividade
+* Organização de código
+* Experiência do usuário (UX)
+* Acessibilidade
+* Escalabilidade visual
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React.js
-- JSON
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* JSON
 
 ---
 
 ## 🎯 Funcionalidades
 
-- Layout totalmente responsivo (desktop, tablet e mobile)  
-- Seções institucionais (Sobre, Serviços, Home e Contato)  
-- Design moderno e focado em UX  
-- Componentes reutilizáveis  
-- Estrutura semântica e boas práticas de acessibilidade (WCAG)
+* Layout totalmente responsivo
+* Interface moderna e intuitiva
+* Estrutura baseada em componentes reutilizáveis
+* Seções institucionais organizadas
+* Sistema de troca de mensagens
+* Melhorias de acessibilidade para usuários com limitações visuais e auditivas
+* Compatibilidade aprimorada entre dispositivos
+* Navegação otimizada para diferentes tamanhos de tela
 
 ---
-## Atualizações 
 
-- Maior responsividade
-- Resolução de problemas de compatibilidade em diferentes tipos de aparelhos
-- Criação da função de mensagem. Para troca de mensagem entre usuário e empresa.
-- Acessibilidade para pessoas com dificuldades com a audição e visão.
-- Melhor compatibilidade com outros aparelhos.
-- Melhor design na página de login.
-- Resolução de problemas com relação a depuração, para que abra, primeiramente, o arquivo do login. 
-  
+## 🛠️ Melhorias Implementadas
+
+Durante o desenvolvimento, o projeto recebeu diversas atualizações voltadas para experiência e estabilidade da aplicação:
+
+* Refatoração de responsividade
+* Correção de problemas de compatibilidade
+* Melhor organização visual da página de login
+* Ajustes de fluxo inicial da aplicação
+* Melhorias de acessibilidade
+* Otimizações de usabilidade e navegação
+
+---
+
+## 📚 Objetivo do Projeto
+
+Mais do que apenas uma landing page, este projeto foi desenvolvido para praticar conceitos importantes de aplicações Front-End modernas, como:
+
+* Construção de interfaces escaláveis
+* Componentização
+* Consistência visual
+* Responsividade
+* UX/UI
+* Organização de código
+* Manutenção e legibilidade
+
+---
+
 ## 📸 Preview
-<img width="1304" height="768" alt="Captura de tela 2026-01-26 085845" src="https://github.com/user-attachments/assets/ddc878a0-b810-4e82-851d-bee25cc3005c" />
-<img width="1304" height="768" alt="Captura de tela 2026-01-29 183247" src="https://github.com/user-attachments/assets/cb0fba1b-9cab-4b45-8506-778d4ce8acb0" />
-<img width="1304" height="768" alt="atualização respo" src="https://github.com/user-attachments/assets/9307363f-8e8e-410b-baeb-1398b48b043f" />
-<img width="1304" height="768" alt="Captura de tela 2026-02-25 085739" src="https://github.com/user-attachments/assets/386173a8-fe2d-423f-a70c-7c6c8b279d31" />
+
+<img width="1304" height="768" alt="preview-1" src="https://github.com/user-attachments/assets/ddc878a0-b810-4e82-851d-bee25cc3005c" />
+
+<img width="1304" height="768" alt="preview-2" src="https://github.com/user-attachments/assets/cb0fba1b-9cab-4b45-8506-778d4ce8acb0" />
+
+<img width="1304" height="768" alt="preview-3" src="https://github.com/user-attachments/assets/9307363f-8e8e-410b-baeb-1398b48b043f" />
+
+<img width="1304" height="768" alt="preview-4" src="https://github.com/user-attachments/assets/386173a8-fe2d-423f-a70c-7c6c8b279d31" />
+
+---
+
+## 👨‍💻 Autor
+
+**Luiz Felipe Oliveira Souza**
+Front-End Developer focado na construção de aplicações modernas, organizadas e fáceis de manter utilizando React e TypeScript.
 
 
 
