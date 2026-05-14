@@ -12,8 +12,6 @@
 <img src="https://img.shields.io/badge/Responsive-Design-38BDF8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Accessibility-WCAG-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/UI%2FUX-Focused-8B5CF6?style=for-the-badge" />
-https://github.com/user-attachments/assets/9f567c6a-77c4-429f-b224-2f138bb2dc25
-<br/>
 <br/>
 
 Aplicação institucional desenvolvida para simular a experiência digital de um spa moderno, utilizando React e foco em interface intuitiva, componentização e acessibilidade.
@@ -38,13 +36,12 @@ Além do design moderno, o projeto também busca demonstrar boas práticas de de
 
 ---
 
-# 🎥 Demo do Projeto
+# 🎥 Preview da aplicação
 
 <div align="center">
 
 <!-- Adicione aqui seu GIF ou vídeo demonstrativo -->
-
-<img src="COLE_AQUI_SEU_GIF" width="100%" />
+[](https://s7-hzde.freeconvert.com/task/6a020d58619a666348d7d657/Acesso%20_%20Relaxants%20SPA%20and%201%20more%20page%20-%20Personal%202%20-%20Microsoft%E2%80%8B%20Edge%202026-05-11%2013-58-09.mp4)
 
 </div>
 
