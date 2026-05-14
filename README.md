@@ -36,22 +36,26 @@ Além do design moderno, o projeto também busca demonstrar boas práticas de de
 
 ---
 
-# 🎥 Preview da aplicação
+# 🎥 Preview da Aplicação
 
 <div align="center">
-
-<!-- Adicione aqui seu GIF ou vídeo demonstrativo -->
-[](https://s7-hzde.freeconvert.com/task/6a020d58619a666348d7d657/Acesso%20_%20Relaxants%20SPA%20and%201%20more%20page%20-%20Personal%202%20-%20Microsoft%E2%80%8B%20Edge%202026-05-11%2013-58-09.mp4)
-
+  <video src="https://github.com/user-attachments/assets/9f567c6a-77c4-429f-b224-2f138bb2dc25" controls width="100%"></video>
 </div>
 
 ---
 
-# 📸 Preview da Aplicação
+
+# 📸 Preview(foto) da Aplicação
 
 <div align="center">
 
-## 📸 Preview<img width="1304" height="768" alt="preview-1" src="https://github.com/user-attachments/assets/ddc878a0-b810-4e82-851d-bee25cc3005c" /><img width="1304" height="768" alt="preview-2" src="https://github.com/user-attachments/assets/cb0fba1b-9cab-4b45-8506-778d4ce8acb0" /><img width="1304" height="768" alt="preview-3" src="https://github.com/user-attachments/assets/9307363f-8e8e-410b-baeb-1398b48b043f" /><img width="1304" height="768" alt="preview-4" src="https://github.com/user-attachments/assets/386173a8-fe2d-423f-a70c-7c6c8b279d31" />
+<img width="1304" height="768" alt="preview-1" src="https://github.com/user-attachments/assets/ddc878a0-b810-4e82-851d-bee25cc3005c" />
+
+<img width="1304" height="768" alt="preview-2" src="https://github.com/user-attachments/assets/cb0fba1b-9cab-4b45-8506-778d4ce8acb0" />
+
+<img width="1304" height="768" alt="preview-3" src="https://github.com/user-attachments/assets/9307363f-8e8e-410b-baeb-1398b48b043f" />
+
+<img width="1304" height="768" alt="preview-4" src="https://github.com/user-attachments/assets/386173a8-fe2d-423f-a70c-7c6c8b279d31" />
 
 </div>
 
