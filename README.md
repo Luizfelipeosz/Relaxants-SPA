@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # 🌿 Relaxant's Spa
@@ -275,4 +274,4 @@ Desenvolvedor Front-End focado na construção de interfaces modernas, acessíve
 </a>
 
 </div>
-```
+
