@@ -118,3 +118,39 @@ src/
 ├── styles/
 └── utils/
 
+## 📂 Folder Organization
+
+```text
+src/
+│
+├── assets/
+│   ├── images/
+│   └── icons/
+│
+├── components/
+│   ├── Header/
+│   ├── Footer/
+│   ├── ServiceCard/
+│   └── Button/
+│
+├── pages/
+│   ├── Home/
+│   ├── Login/
+│   └── Services/
+│
+├── data/
+├── styles/
+├── utils/
+│
+└── main.jsx
+```
+
+### Architectural Decisions
+
+- Components are isolated and reusable.
+- Pages are responsible for screen composition.
+- Utility functions are centralized to avoid duplication.
+- Assets remain separated from business logic.
+- Styles are organized for consistency and easier maintenance.
+
+This structure enables the application to evolve without increasing complexity, following patterns commonly adopted in professional Front-End projects.
